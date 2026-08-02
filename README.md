@@ -14,6 +14,13 @@ Momentum Clone은 현재 시간과 날짜, 사용자별 인사말, 할 일 목�
 
 ---
 
+## 배포 링크
+
+- **Live Demo**: [Momentum Clone 실행하기](https://seohyeonmun.github.io/seohyun.github.io/)
+- **Deployment**: GitHub Pages
+
+---
+
 ## 기획 배경 및 목표
 
 JavaScript의 DOM 조작과 이벤트 처리 방식을 익히고, 브라우저가 제공하는 저장소 및 위치 정보 기능을 실제 웹페이지에 적용하는 것을 목표로 제작했습니다. 단순한 기능 실습에 그치지 않고 시간, 일정, 날씨처럼 자주 확인하는 정보를 하나의 대시보드에서 사용할 수 있도록 구성했습니다.
