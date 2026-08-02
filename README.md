@@ -16,8 +16,7 @@ Momentum Clone은 현재 시간과 날짜, 사용자별 인사말, 할 일 목�
 
 ## 배포 링크
 
-- **Live Demo**: [Momentum Clone 실행하기](https://seohyeonmun.github.io/seohyun.github.io/)
-- **Deployment**: GitHub Pages
+[🌐 Live Demo](https://seohyeonmun.github.io/seohyun.github.io/)
 
 ---
 
