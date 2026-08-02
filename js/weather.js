@@ -1,4 +1,4 @@
-const API_KEY = "f137fd74ddb09c78b2c8049c59e8cf3c";
+// const API_KEY = "OPENWEATHER_API_KEY를 입력하세요";
 
 
 function onGeoOk(position) {
