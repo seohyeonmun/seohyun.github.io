@@ -12,6 +12,7 @@ Momentum Clone은 현재 시간과 날짜, 사용자별 인사말, 할 일 목�
 - 담당 역할: 화면 구성, 기능 구현, 외부 API 연동
 - 주요 기술: HTML5 · CSS3 · JavaScript · Local Storage · Geolocation API · OpenWeatherMap API
 
+> 개발 기간 : 2024.09.16 ~ 2024.09.24
 ---
 
 ## 배포 링크
