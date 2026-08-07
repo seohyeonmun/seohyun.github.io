@@ -18,6 +18,7 @@ Momentum Clone은 현재 시간과 날짜, 사용자별 인사말, 할 일 목�
 ## 배포 링크
 
 [🌐 Live Demo](https://seohyeonmun.github.io/seohyun.github.io/)
+> 현재 날씨 정보는 OpenWeatherMap API 키 삭제로 화면에서 보이지 않습니다.
 
 ---
 
@@ -87,7 +88,7 @@ flowchart TD
 | Language     | JavaScript         | DOM 조작, 이벤트 처리, 데이터 관리, 비동기 통신 |
 | Browser API  | Local Storage      | 사용자 이름과 할 일 목록 저장                   |
 | Browser API  | Geolocation API    | 사용자 현재 위치의 위도·경도 조회               |
-| External API | OpenWeatherMap API | 현재 지역의 날씨 및 기온 조회                   |
+| External API | OpenWeatherMap API | 현재 지역의 날씨 및 기온 조회 [API키 발급하기](https://openweathermap.org/) |
 | Deployment   | GitHub Pages       | 정적 웹페이지 배포                              |
 
 ---
