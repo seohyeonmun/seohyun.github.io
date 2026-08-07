@@ -18,7 +18,7 @@ Momentum Clone은 현재 시간과 날짜, 사용자별 인사말, 할 일 목�
 ## 배포 링크
 
 [🌐 Live Demo](https://seohyeonmun.github.io/seohyun.github.io/)
-> 현재 날씨 정보는 OpenWeatherMap API 키 삭제로 화면에서 보이지 않습니다.
+> 현재 날씨 및 기온 정보는 OpenWeatherMap API 키 삭제로 화면에서 보이지 않습니다.
 
 ---
 
